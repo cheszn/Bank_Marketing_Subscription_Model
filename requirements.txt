@@ -20,5 +20,8 @@ Keras
 tensorflow-hub
 tensorflow-docs
 tensorflow
-Flask==2.0.1
+Flask==3.0.0
+blinker==1.7.0
+Werkzeug==2.0.1
+
 

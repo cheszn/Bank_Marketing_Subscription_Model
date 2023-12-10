@@ -63,3 +63,6 @@ Or ....
     ```Bash
     python.exe -m pip install --upgrade pip
     ```
+
+    ### **`Linux Users`**  : You know what to do :sunglasses:
+
